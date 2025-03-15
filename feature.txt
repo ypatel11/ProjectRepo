@@ -1,3 +1,5 @@
 Sample content
 Modified from develop
 
+Merge conflict in fix bug
+
