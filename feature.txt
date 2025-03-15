@@ -1,3 +1,7 @@
 Sample content
 
 Merge in develop
+Modified from develop
+
+Merge conflict in fix bug
+
